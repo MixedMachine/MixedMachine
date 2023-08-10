@@ -1,1 +1,2 @@
-"# Mixed Machine\n ## Welcome to my github ??" 
+# Mixed Machine
+## Welcome to my github 😁
